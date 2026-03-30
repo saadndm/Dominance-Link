@@ -29,7 +29,7 @@
     "hypixel-api-reborn",
   ],
   "overrides": {
-    "minecraft-data": "^3.106.0",
+    "minecraft-data": "^3.109.0",
   },
   "packages": {
     "@azure/msal-common": ["@azure/msal-common@14.16.1", "", {}, "sha512-nyxsA6NA4SVKh5YyRpbSXiMr7oQbwark7JU9LMeg6tJYTSPyAGkdx61wPT4gyxZfxlSxMMEyAsWaubBlNyIa1w=="],
@@ -276,7 +276,7 @@
 
     "mime-types": ["mime-types@2.1.35", "", { "dependencies": { "mime-db": "1.52.0" } }, "sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw=="],
 
-    "minecraft-data": ["minecraft-data@3.106.0", "", {}, "sha512-AE6d1WqU+BZED0foDWgXmpkBLYewxV49qfl4wwLM0qRqBpXXjB6FDgu3fM7uvcb2Q0x6jAMemvnsculLWU90og=="],
+    "minecraft-data": ["minecraft-data@3.109.0", "", {}, "sha512-WdeFQAogj0pX30dXMm2mYBd7x1DlKs7LCs8qtFGZ+S+IhnCh0DgHNSGd8dgL7wFxS6I9eJaF8zdGksdUi2PwYg=="],
 
     "minecraft-folder-path": ["minecraft-folder-path@1.2.0", "", {}, "sha512-qaUSbKWoOsH9brn0JQuBhxNAzTDMwrOXorwuRxdJKKKDYvZhtml+6GVCUrY5HRiEsieBEjCUnhVpDuQiKsiFaw=="],
 
