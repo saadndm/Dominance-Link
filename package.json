@@ -26,7 +26,7 @@
     "skyhelper-networth": "^2.7.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.4.16",
+    "@biomejs/biome": "^2.6.2",
     "@types/bun": "^1.4.4",
     "@types/node-cron": "^3.0.11",
     "typescript": "^6.0.3"
