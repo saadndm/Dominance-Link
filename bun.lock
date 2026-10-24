@@ -12,7 +12,7 @@
         "googleapis": "^173.0.0",
         "hypixel-api-reborn": "git@github.com:saadndm/hypixel-api-reborn#personal",
         "math-expression-evaluator": "^2.0.7",
-        "mineflayer": "^4.37.1",
+        "mineflayer": "^4.39.0",
         "node-cron": "^4.4.1",
         "rss-parser": "^3.13.0",
         "skyhelper-networth": "^2.7.2",
@@ -328,7 +328,7 @@
 
     "minecraft-protocol": ["minecraft-protocol@1.67.0", "", { "dependencies": { "@types/node-rsa": "^1.1.4", "@types/readable-stream": "^4.0.0", "aes-js": "^3.1.2", "buffer-equal": "^1.0.0", "debug": "^4.3.2", "endian-toggle": "^0.0.0", "lodash.merge": "^4.3.0", "minecraft-data": "^3.109.0", "minecraft-folder-path": "^1.2.0", "node-fetch": "^2.6.1", "node-rsa": "^0.4.2", "prismarine-auth": "^3.1.1", "prismarine-chat": "^1.10.0", "prismarine-nbt": "^2.5.0", "prismarine-realms": "^1.2.0", "protodef": "^1.17.0", "readable-stream": "^4.1.0", "uuid-1345": "^1.0.1", "yggdrasil": "^1.4.0" } }, "sha512-PpAQMm/MMiNZGL+uF2A7Gke1mT8R2h08c7ifOyLRNlaNluDFrJ57UarCkMQ+CETbZ/b6puEjkw4hLk4r/XY3hQ=="],
 
-    "mineflayer": ["mineflayer@4.37.1", "", { "dependencies": { "minecraft-data": "^3.108.0", "minecraft-protocol": "^1.66.0", "mojangson": "^2.0.4", "prismarine-biome": "^1.1.1", "prismarine-block": "^1.22.0", "prismarine-chat": "^1.7.1", "prismarine-chunk": "^1.39.0", "prismarine-entity": "^2.5.0", "prismarine-item": "^1.17.0", "prismarine-nbt": "^2.0.0", "prismarine-physics": "^1.9.0", "prismarine-recipe": "^1.5.0", "prismarine-registry": "^1.10.0", "prismarine-windows": "^2.9.0", "prismarine-world": "^3.6.0", "protodef": "^1.18.0", "typed-emitter": "^1.0.0", "uuid-1345": "^1.0.2", "vec3": "^0.1.7" } }, "sha512-kchZCJb1znzz8ZhE0+gLQ3e2t/9xUsqUy/IM/sGfceINxi3h6KXKY9luaUEa59vnD/x0OKwYdERY4sscm0ErNQ=="],
+    "mineflayer": ["mineflayer@4.39.0", "", { "dependencies": { "minecraft-data": "^3.114.0", "minecraft-protocol": "^1.67.0", "mojangson": "^2.0.4", "prismarine-biome": "^1.1.1", "prismarine-block": "^1.22.0", "prismarine-chat": "^1.7.1", "prismarine-chunk": "^1.41.0", "prismarine-entity": "^2.5.0", "prismarine-item": "^1.17.0", "prismarine-nbt": "^2.0.0", "prismarine-physics": "^1.11.1", "prismarine-recipe": "^1.5.0", "prismarine-registry": "^1.10.0", "prismarine-windows": "^2.9.0", "prismarine-world": "^3.6.0", "protodef": "^1.18.0", "typed-emitter": "^1.0.0", "uuid-1345": "^1.0.2", "vec3": "^0.1.7" } }, "sha512-HptE++dIG55aRmT7GIj3QComS6MhEXstE3RJSuYMFhLtobsQhJJsqWmY9ObfiLp84MrS6Q4Em+wUH0rVQMXLJw=="],
 
     "minimatch": ["minimatch@9.0.9", "", { "dependencies": { "brace-expansion": "^2.0.2" } }, "sha512-OBwBN9AL4dqmETlpS2zasx+vTeWclWzkblfZk7KTA5j3jeOONz/tRCnZomUyvNg83wL5Zv9Ss6HMJXAgL8R2Yg=="],
 
